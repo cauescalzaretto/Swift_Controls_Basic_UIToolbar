@@ -1,4 +1,4 @@
-# Swift_Controls_Basic_UIToolbar# Swift Controls Basic UIToolbar
+# Swift Controls Basic UIToolbar
 
 Toolbar é nada mais do que uma barra de ferramentas. Normalmente usada parra agrupar botões de uma maneira organizada.
 
